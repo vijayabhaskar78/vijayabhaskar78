@@ -4,9 +4,9 @@ I build experimental infrastructure for **AI-assisted software engineering** and
 
 ## Focus Areas
 
-• AI coding agents operating directly inside GitHub repositories
-• Structured memory systems for long-context LLM workflows
-• Automation of repository maintenance (issues, PR review, CI debugging)
+• AI coding agents 
+• Long-context memory systems for LLM workflows 
+• Autonomous repository maintenance
 
 ## Key Projects
 
